@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"testCreateGame" : "HernanCichero 9/13/2018 19:59",
+		"testGameIsOver" : "hernan 9/18/2018 18:30",
+		"testPlayerCanNotPlayWhenItIsNotHisTurn" : "hernan 9/18/2018 18:31",
+		"testPlayerCanNotPlayWhenGameIsOver" : "hernan 9/18/2018 18:30",
+		"testCheckWhoWins" : "hernan 9/18/2018 18:25",
+		"testOrderArrayOfPlayerAfterAGame" : "hernan 9/18/2018 17:14"
+	},
+	"class" : { }
+}

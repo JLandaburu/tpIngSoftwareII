@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Game",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"board",
+		"arrayOfPlayers",
+		"arrayOfDices",
+		"isOver",
+		"nextPlayer"
+	],
+	"name" : "Game",
+	"type" : "normal"
+}

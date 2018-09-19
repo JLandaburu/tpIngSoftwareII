@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"board" : "HernanCichero 9/13/2018 17:54",
+		"placeOf:" : "hernan 9/18/2018 18:02",
+		"hasEnded" : "hernan 9/18/2018 18:02",
+		"winner" : "hernan 9/18/2018 18:27",
+		"arrayOfDices" : "HernanCichero 9/13/2018 17:54",
+		"initializeWithBoard:withArrayOfPlayers:withArrayOfDices:" : "Anonymous 9/15/2018 19:14",
+		"plays:with:" : "hernan 9/18/2018 17:07",
+		"changePlayer" : "Anonymous 9/15/2018 19:26",
+		"plays:" : "Anonymous 9/15/2018 19:23",
+		"arrayOfPlayers" : "HernanCichero 9/13/2018 17:54",
+		"isOver" : "Anonymous 9/15/2018 16:59",
+		"nextPlayer" : "Anonymous 9/15/2018 19:13"
+	},
+	"class" : {
+		"withBoard:withArrayOfPlayers:withArrayOfDices:" : "HernanCichero 9/13/2018 20:02"
+	}
+}
